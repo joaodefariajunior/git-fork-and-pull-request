@@ -1,4 +1,4 @@
-# git-fork-and-pull-request
+# Letś get Schwiftty!
 
 1) Click on the upper right corner "fork" and fork it to your own repository
 
